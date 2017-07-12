@@ -1,4 +1,4 @@
-package planner.gui;
+package planner;
 
 import javafx.application.Application;
 import javafx.stage.Stage;
